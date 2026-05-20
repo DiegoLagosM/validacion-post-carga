@@ -1,9 +1,4 @@
-Path
-re
-sys
 pandas
-load_workbook
-datetime
-re
-unicodedata
+numpy
+requests
 openpyxl
