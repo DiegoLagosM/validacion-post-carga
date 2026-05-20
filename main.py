@@ -10,16 +10,16 @@ else:
     PYTHON_EXE = sys.executable
 
 SCRIPTS = [
-    r"C:\Users\c31352e\OneDrive - EXPERIAN SERVICES CORP\Escritorio\Python\CCC-ONP.py",
-    r"C:\Users\c31352e\OneDrive - EXPERIAN SERVICES CORP\Escritorio\Python\CCV.py",
-    r"C:\Users\c31352e\OneDrive - EXPERIAN SERVICES CORP\Escritorio\Python\Cedula.py",
-    r"C:\Users\c31352e\OneDrive - EXPERIAN SERVICES CORP\Escritorio\Python\PRT.py",
-    r"C:\Users\c31352e\OneDrive - EXPERIAN SERVICES CORP\Escritorio\Python\Aclaraciones.py",
-    r"C:\Users\c31352e\OneDrive - EXPERIAN SERVICES CORP\Escritorio\Python\Infocom.py",
-    r"C:\Users\c31352e\OneDrive - EXPERIAN SERVICES CORP\Escritorio\Python\ILab.py",
-    r"C:\Users\c31352e\OneDrive - EXPERIAN SERVICES CORP\Escritorio\Python\IG - CA.py",
-    r"C:\Users\c31352e\OneDrive - EXPERIAN SERVICES CORP\Escritorio\Python\R04.py",
-    r"C:\Users\c31352e\OneDrive - EXPERIAN SERVICES CORP\Escritorio\Python\SIR.py"
+    "CCC-ONP.py",
+    "CCV.py",
+    "Cedula.py",
+    "PRT.py",
+    "Aclaraciones.py",
+    "Infocom.py",
+    "ILab.py",
+    "IG - CA.py",
+    "R04.py",
+    "SIR.py"
 ]
 
 def main():
