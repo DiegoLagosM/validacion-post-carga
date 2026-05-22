@@ -8,7 +8,7 @@ from openpyxl import load_workbook
 # CONFIGURACIÓN
 # =========================================================
 BASE_PATH = Path(
-    r"C:\Users\c31352e\OneDrive - EXPERIAN SERVICES CORP\Archivos de Cardenas, Oscar - Calidad de Datos\Diego\Validacion post carga"
+    r"C:/Users/c31352e/OneDrive - EXPERIAN SERVICES CORP/Archivos de Cardenas, Oscar - Calidad de Datos/Diego/Validacion post carga"
 )
 
 RUTA_LOGS = BASE_PATH / "LOGS"
